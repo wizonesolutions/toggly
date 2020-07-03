@@ -1,4 +1,4 @@
-FROM php:7.1.5-alpine
+FROM php:7.3-alpine
 WORKDIR /usr/src/toggly
 
 # Install composer
